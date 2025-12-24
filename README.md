@@ -1,8 +1,8 @@
 
 -University Assignment-
 
-Student Name:     LUAY AVVATA
+Student Name:       LUAY AVVATA
 
-Sudent ID:        2310213573
+Sudent ID:          2310213573
 
-Course Name:      Data Structure
+Course Name:        Data Structure
